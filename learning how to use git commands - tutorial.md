@@ -12,6 +12,8 @@ git push -u origin main - importa o repositório interno para o remoto (github).
 git fetch ver se tem algo no reposit[orio remoto para fazer alterações no local
 Git Pull - traz do reposit[orio remoto pro local]
 
+eu amo minha mulher inteligente
+
 
 CMDS USADOS 
 
