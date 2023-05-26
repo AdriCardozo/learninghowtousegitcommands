@@ -1,6 +1,6 @@
 learning how to use git commands - tutorial
 pwd- mostra o diretório em que estamos
-cd (caminho do diret[orio da pasta)
+cd (caminho do diretório da pasta)
 Git init (diretório interno do doc). OU Git clone (Diret[orio externo do doc) 
 obs - mudanças no arquivo constam como modified (nesse caso ainda nunca adicionadas e não add ou salvas no repositório - untracked)
 obs 2: Cmd Cd (caminho do diretório) navega na pasta raiz; Cmd Cd .. Vai voltando no diretório
